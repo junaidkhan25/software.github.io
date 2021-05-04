@@ -1,0 +1,22 @@
+.text {
+            
+    text-align: center;
+}
+.navBar{
+    height: 25px;
+    padding: 10px;
+    background: #000;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(243, 6, 6);
+    margin: 20px;
+}
+.leftBar{
+    margin: 20px;
+    display: inline-block;
+    
+}
+img{
+    height: 500px;
+}
